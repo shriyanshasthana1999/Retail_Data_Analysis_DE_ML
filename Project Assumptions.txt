@@ -1,0 +1,2 @@
+1. The schema of files won't change over time (ex - addition/deletion of columns, data type change in columns)
+2. All the data will be added in append mode only, merge not implemented in this project.
